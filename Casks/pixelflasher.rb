@@ -21,8 +21,4 @@ cask "pixelflasher" do
     "~/Library/Preferences/com.badabing.pixelflasher.plist",
     "~/Library/Saved Application State/com.badabing.pixelflasher.savedState",
   ]
-
-  caveats do
-    requires_rosetta
-  end
 end
