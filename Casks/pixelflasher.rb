@@ -1,6 +1,6 @@
 cask "pixelflasher" do
-  version "8.8.2.1"
-  sha256 "06a412665fc630ed786a54bd09ba2694d47440e5a7b4b37ee554536a2d2e12ac"
+  version "8.8.2.2"
+  sha256 "81fe3e23af66fd7a8649e0825cf508675bb146fdfe49a6d7c708433192a54c3c"
 
   url "https://github.com/badabing2005/PixelFlasher/releases/download/v#{version}/PixelFlasher_MacOS.dmg"
   name "PixelFlasher"
